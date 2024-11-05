@@ -1,1 +1,3 @@
 # Temperature-Converter
+
+The Temperature Converter is a user-friendly web application that allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin. With a sleek and modern design, the app provides input fields for each temperature scale, and as users enter values, the corresponding temperatures in the other scales are instantly calculated and displayed. Built with HTML, CSS, and JavaScript, this app ensures accurate conversions based on the standard temperature formulas. Whether you're a student studying thermodynamics or just need to quickly convert temperatures, this app simplifies the process and enhances your learning experience.
